@@ -1,0 +1,403 @@
+/*
+Theme Name: auction4acause Child
+Theme URI: https://ibid.modeltheme.com/
+Template: auction4acause
+Author: ModelTheme
+Author URI: http://modeltheme.com/
+Description: Multi Vendor Auctions WooCommerce Theme
+Version: 1.0
+Text Domain: auction4acause
+Tags: custom-header, custom-menu, featured-images, post-formats, sticky-post
+*/
+/* Theme customization starts here
+------------------------------------------------------- */
+.modeltheme-trigger, button.tzc-convert-time {
+    border: 2px solid #c00000;
+    padding: 12px 25px;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: 600;
+	background: #c00000;
+    color: #fff !important;
+}
+button.tzc-convert-time:hover, .modeltheme-trigger:hover {
+    color: #c00000 !important;
+	background: #fff;
+}
+.modeltheme-modal button[type="submit"]:hover {border: 1px solid #c00000;}
+.but_nft a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-modern.vc_btn3-color-grey {
+    border: 2px solid #c00000 !important;
+    background: #fff !important;
+    color: #c00000 !important;
+    font-weight: 600 !important;
+    padding: 8px 18px !important;
+    background: #c00000 !important;
+    color: #fff !important;
+
+}
+.online-auction figure{
+	margin-bottom: 0 !important;
+}
+/*.online-auction .vc_column-inner {padding: 15px;border: 1px solid #eee;} */
+.quote-text{
+text-align: center; line-height: 24px; font-size: 18px;font-weight:500;
+}
+.box-shadow-cls .wpb_single_image .vc_figure {margin-bottom: 5px !important;}
+.but_nft a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-modern.vc_btn3-color-grey:hover {
+
+    background: #fff !important;
+    color: #c00000 !important;
+}
+.gform_footer.top_label input#gform_submit_button_1 {
+    border-radius: 30px;
+    padding: 8px 42px;
+    font-weight: 600;
+    border: 2px solid #c00000;
+    color: #fff;
+    background: #c00000;
+}
+.gform_footer.top_label input#gform_submit_button_1:hover {
+    background: #fff;
+    color: #c00000;
+}
+.habitat-for-humanity h2.section-title {
+    text-align: left;
+}
+.habitat-for-humanity i.fa.fa-check {
+    color: #f4524d;
+    font-size: 20px;
+    padding-right: 10px;
+}
+.home-wonder-slider {
+    background-position: top !important;
+}
+.wpcf7-form .wpcf7-submit:hover {border: 2px solid;}
+footer.has-footer-widgets a, footer.has-footer-widgets a:visited {color: #000;}
+.featured-artwork-div {margin-top: 20px;}
+.ibid-contact-form {overflow: auto;}
+.box-shadow-cls {box-shadow: 0px 10px 30px 0px rgb(26 54 85 / 15%);}
+.header-v3 .navbar-nav > li > a {
+    font-weight: 500;
+	text-transform: uppercase;
+}
+ul.menu.nav.navbar-nav.nav-effect.nav-menu a {
+    font-size: 15px;
+	    
+}
+.custom-about .button-winona
+{
+	background: #f4524d !important;
+}
+.custom-about .button-winona:hover
+{
+	background: transparent !important;
+	color: #f4524d !important;
+}
+.single-product .wsawl-link {
+    display: none !important;
+}
+.single-product .product_meta .posted_in {
+    display: none;
+}
+.single-product .product_meta .tagged_as {
+    display: none;
+}
+.about-sec1 h2{
+	color:#252525;
+}
+
+.about-sec1 h2 strong{
+	color:#f4524d !important;
+}
+
+.about-sec1  .vc_figure{
+	margin-bottom:0px !important;
+}
+
+
+.about-sec2 h2{
+	font-size:23px !important;
+	line-height:36px !important;
+}
+
+
+.about-sec2  .mt-icon-listgroup-item.wow {
+	margin-bottom: 25px;
+}
+
+.title-subtile-holder svg path{
+		fill:#f4524d !important;
+}
+
+.habidat_sec2 h4{
+	position:relative;
+	padding-left:20px;
+	line-height:30px;
+}
+  
+.habidat_sec2 ul li{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.habidat-sec3 h4{
+	line-height:24px !important;
+}
+.habidat-sec3 p{
+	color:#f4524d;
+	font-weight:600;
+	font-size:20px;
+}
+
+.shipping_sec1 h3{
+line-height:28px;
+	margin-top:0px;
+}
+
+.shipping_sec1 ul li{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+
+.shipping_sec1 .note h4{
+	color:#f4524d;
+	text-transform:uppercase;
+	padding-top:10px;
+}
+.shipping_sec1 .note p{
+font-weight:500;
+}
+.top-header {
+    display: none;
+}
+.lvca-team-members.lvca-style1 .lvca-team-member:hover .lvca-image-wrapper img {
+    -webkit-filter: none;
+    filter: none;
+}
+p.copyright {
+    font-size: 12px !important;
+}
+.top-footer.row {
+   display:none;
+}
+.has-footer-widgets .footer-top {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.sixth_header .menu-products
+{
+	display:none;
+}
+.sixth_header .my-account-navbar
+{
+	display:none;
+}
+footer.has-footer-widgets {
+    border-top: 1px solid #dedede;
+    background: #dedede;
+}
+.wonderplugincarousel-container #wonderplugincarousel-1 .amazingcarousel-prev {
+    left: 1%;
+    top: 50%;
+    margin-left: -48px;
+    margin-top: -16px;
+}
+.wonderplugincarousel-container #wonderplugincarousel-1 .amazingcarousel-next {
+    right: 0.5%;
+    top: 50%;
+    margin-right: -48px;
+    margin-top: -16px;
+}
+
+/* 30-03-2022 login form */
+
+/*.u-column1.col-1.col-md-6:first-child {
+    display: none;
+}
+#login-modal-content .u-column2.col-2.col-md-6 {
+    width: 100%;
+} */
+.modeltheme-content#login-modal-content h3, .modeltheme-content#signup-modal-content h3 {
+    background: #484848;
+    border-radius: 10px 10px 0px 0px;
+    margin: 0;
+    padding: 15px 25px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+}
+#login-modal-content .u-column2.col-2.col-md-6 h2 {
+    margin-top: 10px;
+}
+.Shiping {
+    box-shadow: 0px 10px 30px 0px rgb(26 54 85 / 15%);
+    border-radius: 20px 0px;
+}
+
+.Shiping .title-subtile-holder h2 {
+    font-size: 20px !important;
+}
+
+.modeltheme-modal input[type="email"], .modeltheme-modal input[type="text"], .modeltheme-modal input[type="password"] {
+    margin-top: 3px;
+    width: 100%;
+    outline: none;
+    padding: 7px 25px !important;
+    border: 1px solid #ddd;
+    line-height: 1.42857143;
+    transition: all 250ms ease;
+    background: #F7F8FA !important;
+}
+.modeltheme-content > div p {
+    margin: 0;
+    padding: 5px 0;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.7;
+}
+.modeltheme-modal .modeltheme-content {
+    max-width: 700px;
+    margin: 0 auto;
+    position: relative;
+}
+.modeltheme-modal .modeltheme-content > div {
+    padding: 5px 15px 5px!important;
+}
+.Shiping h3 {
+    font-size: 19px !important;
+}
+.home-images 
+	{
+    padding: 0px 210px !important;
+	}
+.habitat-images {
+    margin-top: 15px !important;
+}
+.custom-about .vc_column-inner {
+    margin: 0px 20px;
+}
+.about-baner-section {
+    padding: 130px 0px 95px;
+}
+.footer-row-1 .col-md-3.widget.widget_text {
+    width: 100%;
+    text-align: center;
+}
+.contact-detail span {
+    padding: 0px 7px;
+}
+.contact-detail {
+    margin-bottom: 15px;
+}
+#gform_confirmation_message_1 h2 {
+    font-size: 18px;
+}
+@media only screen and (min-width:768px){
+	header.header-v3 {background: #ffff;
+  height: 85px;
+  z-index:999;
+  margin:0 auto;
+  border-bottom:1px solid #dadada;
+  width:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;}
+
+.content-area {padding-top: 92px;}
+,page-id-18826 .content-area {padding-top: 55px;}
+}
+@media only screen and (min-width:1300px){
+.content-area .container {width: 1260px;}
+}
+@media (max-width: 736px) and (min-width: 320px)
+
+{
+	.home-images 
+	{
+    padding: 0px !important;
+	}
+	.habitat-images {
+    margin-top: 0px !important;
+	}
+	.habitat-images figure.wpb_wrapper.vc_figure 
+	{
+    margin-bottom: 0px !important;
+	}
+	.custom-about {
+    display: block !important;
+    width: 100% !important;
+    max-width: 55%;
+	}
+	.donate {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+
+.donate .vc_column-inner.vc_custom_1648636121126 {
+    padding: 25px 35px !important;
+}
+
+.donate label.gfield_label {
+    display: none !important;
+}
+
+.donate .svg-border svg {
+    width: 216px;
+}
+	.online-auction-responsive h3.vc_custom_heading {
+    font-size: 15px !important;
+}
+
+.online-auction-responsive .svg-border svg {
+    width: 250px;
+}
+	.the-artworks .svg-border svg {
+    width: 250px;
+}
+	.how-it-works .svg-border svg {
+    width: 240px;
+}
+
+	.how-it-works.vc_custom_1648645580195 {
+    margin: 0px !important;
+}
+	.how-it-works .vc_single_image-wrapper.vc_box_border_grey {
+    padding-top: 20px !important;
+}
+	.how-it-works .wpb_single_image .vc_figure 
+	{
+    max-width: 95%;
+    margin-bottom: 0px !important;
+	}
+}
+
+
+/** i-pad css **/
+
+@media (max-width: 1024px) and (min-width: 768px)
+{
+	.home-images {
+    padding: 0px 120px !important;
+}
+	.custom-about 
+	{
+    width: 50% !important;
+	}
+}
+@media only screen and (min-width: 801px){
+.lvca-grid-container.lvca-grid-desktop-2 .lvca-grid-item {
+    width: calc(50% - 30px);
+    margin: 0 15px;
+}
+}
+@media (min-width: 769px) and (max-width: 1299px){
+.box-shadow-cls p {font-size: 13px !important;}
+}
+
+@media only screen and (max-width:768px){
+	.header-v3 .navbar-header .navbar-toggle {margin-top: 40px !important;margin-right: 10px !important;}
+	footer.has-footer-widgets .footer-top .widget {margin-bottom: 0;}
+}

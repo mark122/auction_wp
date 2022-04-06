@@ -1,0 +1,89 @@
+/*YITH Auctions*/
+.woocommerce ul.products li.product .yith-wcact-aution-badge {
+    z-index: 22220;
+    position: absolute;
+    right: 15px;
+    max-width: 40px;
+}
+.single.woocommerce div.product form.cart {
+    width: 100%;
+}
+.single.woocommerce .yith-wcact-time-left-main{
+    max-width: 100%;
+}
+.woocommerce div.product form.cart .button#yith-wcact-auction-add-to-cart-button span{
+    color: #fff;
+    transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+}
+.woocommerce div.product form.cart .button#yith-wcact-auction-add-to-cart-button {
+    width: auto;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+.single.woocommerce span.ywcact-currency-symbol.ywcact-currency-value {
+    float: left;
+    line-height: 40px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.dokan-dashboard-wrap .ibid-auction-settings input[type="checkbox"] {
+    display: inline-block;
+}
+.ibid-fields-group-bordered {
+    border: 1px solid #cac8c8;
+    padding: 5px 20px 20px 20px;
+    margin-bottom: 12px;
+}
+.ibid-fields-group-bordered option[disabled] {
+    background: #ddd;
+}
+.ibid-fields-group-bordered p {
+    margin: 0;
+}
+.ibid-conditional-override-settings.ibid-single-field input{
+    width: 100px;
+}
+.ibid-conditional-ywcact_automatic_product_bid_simple input,
+.ibid-conditional-override-settings input,
+.ibid-conditional-yith-reschedule-timer input, .ibid-conditional-yith-reschedule-timer select {
+    width: auto;
+    display: inline-block;
+}
+.ibid-fields-group-bordered .ibid-single-field {
+    margin-top: 15px;
+}
+@media only screen and (max-width: 767px) {
+    .woocommerce ul.products li.product .yith-wcact-aution-badge{
+        display: none;
+    }
+}
+#yith-wcact-form-bid .quantity {
+    width: auto;
+    max-width: initial;
+}
+.yith-auctions-pro-box input[type='checkbox'].wcfm-checkbox, .wcfm-tabWrap .yith-auctions-pro-box input[type="checkbox"] {
+    margin-right: 7px;
+    margin-top: -2px;
+}
+.woocommerce span.yith-wcact-aution-badge{
+    left: auto;
+    right: 0;
+}
+.woocommerce ul.products.list li.product .yith-wcact-aution-badge img {
+    width: auto;
+}
+.woocommerce.single .ywcact-other-auction-info-current-bid {
+    font-weight: normal;
+}
+.woocommerce.single span.ywcact-other-auction-info-title a {
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+}
+.woocommerce.single span.yith-wcact-aution-badge{
+    display: none;
+}

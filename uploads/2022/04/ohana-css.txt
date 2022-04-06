@@ -1,0 +1,6 @@
+    position: absolute;
+    bottom: 238px;
+    top: initial;
+    z-index: 99;
+    right: 312px;
+    left: initial;

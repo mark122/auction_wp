@@ -1,0 +1,12 @@
+2022-04-05T09:13:23+00:00 CRITICAL Cannot declare class Helper, because the name is already in use in /var/www/openyourheart.online/wp-content/plugins/amazon-polly/includes/class-helper.php on line 11
+
+2022-04-05T09:13:26+00:00 CRITICAL Cannot declare class Helper, because the name is already in use in /var/www/openyourheart.online/wp-content/plugins/amazon-polly/includes/class-helper.php on line 11
+
+2022-04-05T09:13:27+00:00 CRITICAL Cannot declare class Helper, because the name is already in use in /var/www/openyourheart.online/wp-content/plugins/amazon-polly/includes/class-helper.php on line 11
+
+2022-04-05T09:13:46+00:00 CRITICAL Cannot declare class Helper, because the name is already in use in /var/www/openyourheart.online/wp-content/plugins/amazon-polly/includes/class-helper.php on line 11
+
+2022-04-05T09:13:50+00:00 CRITICAL Cannot declare class Helper, because the name is already in use in /var/www/openyourheart.online/wp-content/plugins/amazon-polly/includes/class-helper.php on line 11
+
+2022-04-05T09:13:50+00:00 CRITICAL Cannot declare class Helper, because the name is already in use in /var/www/openyourheart.online/wp-content/plugins/amazon-polly/includes/class-helper.php on line 11
+

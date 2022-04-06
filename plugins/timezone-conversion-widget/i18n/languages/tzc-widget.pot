@@ -1,0 +1,35 @@
+# Copyright (C) 2020 Kartik Parmar
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Timezone Conversion Widget 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/timezone-conversion-widget\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-07-25T21:00:50+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: timezone-conversion-widget\n"
+
+#. Plugin Name of the plugin
+msgid "Timezone Conversion Widget"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://kartechify.com/product/timezone-conversion-widget/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A light weight plugin to convert the time as per the timezone specified in from and to timezone field."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kartik Parmar"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.kartechify.com"
+msgstr ""

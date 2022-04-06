@@ -1,0 +1,36 @@
+2022-03-28T09:23:29+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Auction_Premium::get_auction_closed() in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce-simple-auctions/woocommerce-simple-auctions.php:1113
+Stack trace:
+#0 /home/iwebtech/auction.webtech-evolution.com/wp-includes/class-wp-hook.php(307): WooCommerce_simple_auction->product_write_panel('')
+#1 /home/iwebtech/auction.webtech-evolution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home/iwebtech/auction.webtech-evolution.com/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php(53): do_action('woocommerce_pro...')
+#4 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(33): include('/home/iwebtech/...')
+#5 /home/iwebtech/auction.webtech-evolution.com/wp-admin/includes/template.php( in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce-simple-auctions/woocommerce-simple-auctions.php on line 1113
+
+2022-03-28T09:23:37+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Auction_Premium::get_auction_closed() in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce-simple-auctions/woocommerce-simple-auctions.php:1486
+Stack trace:
+#0 /home/iwebtech/auction.webtech-evolution.com/wp-includes/class-wp-hook.php(307): WooCommerce_simple_auction->auction_is_purchasable(true, Object(WC_Product_Auction_Premium))
+#1 /home/iwebtech/auction.webtech-evolution.com/wp-includes/plugin.php(189): WP_Hook->apply_filters(true, Array)
+#2 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1575): apply_filters('woocommerce_is_...', true, Object(WC_Product_Auction_Premium))
+#3 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(542): WC_Product->is_purchasable()
+#4 /home/iwebtech/auction.webtech-evolution.com/wp-includes/class-wp-hook.php(307): wc_product_post_class(Array, Array, 4331)
+#5 /home/iwebtech in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce-simple-auctions/woocommerce-simple-auctions.php on line 1486
+
+2022-03-28T09:23:58+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Auction_Premium::get_auction_closed() in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce-simple-auctions/woocommerce-simple-auctions.php:1486
+Stack trace:
+#0 /home/iwebtech/auction.webtech-evolution.com/wp-includes/class-wp-hook.php(307): WooCommerce_simple_auction->auction_is_purchasable(true, Object(WC_Product_Auction_Premium))
+#1 /home/iwebtech/auction.webtech-evolution.com/wp-includes/plugin.php(189): WP_Hook->apply_filters(true, Array)
+#2 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1575): apply_filters('woocommerce_is_...', true, Object(WC_Product_Auction_Premium))
+#3 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(542): WC_Product->is_purchasable()
+#4 /home/iwebtech/auction.webtech-evolution.com/wp-includes/class-wp-hook.php(307): wc_product_post_class(Array, Array, 4331)
+#5 /home/iwebtech in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce-simple-auctions/woocommerce-simple-auctions.php on line 1486
+
+2022-03-28T09:24:21+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Auction_Premium::get_auction_closed() in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce-simple-auctions/woocommerce-simple-auctions.php:1486
+Stack trace:
+#0 /home/iwebtech/auction.webtech-evolution.com/wp-includes/class-wp-hook.php(307): WooCommerce_simple_auction->auction_is_purchasable(true, Object(WC_Product_Auction_Premium))
+#1 /home/iwebtech/auction.webtech-evolution.com/wp-includes/plugin.php(189): WP_Hook->apply_filters(true, Array)
+#2 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1575): apply_filters('woocommerce_is_...', true, Object(WC_Product_Auction_Premium))
+#3 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(542): WC_Product->is_purchasable()
+#4 /home/iwebtech/auction.webtech-evolution.com/wp-includes/class-wp-hook.php(307): wc_product_post_class(Array, Array, 4331)
+#5 /home/iwebtech in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/woocommerce-simple-auctions/woocommerce-simple-auctions.php on line 1486
+

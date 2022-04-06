@@ -1,0 +1,9 @@
+2022-04-04T07:59:14+00:00 CRITICAL Uncaught Error: Call to undefined function do_rms_activation_task() in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/Gravity Perks 2.1.9 WordPress Plugin/rms-script-ini.php:127
+Stack trace:
+#0 /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/Gravity Perks 2.1.9 WordPress Plugin/gravityperks.php(12): require_once()
+#1 /home/iwebtech/auction.webtech-evolution.com/wp-admin/includes/plugin.php(2288): include_once('/home/iwebtech/...')
+#2 /home/iwebtech/auction.webtech-evolution.com/wp-admin/includes/plugin.php(659): plugin_sandbox_scrape('Gravity Perks 2...')
+#3 /home/iwebtech/auction.webtech-evolution.com/wp-admin/plugins.php(58): activate_plugin('Gravity Perks 2...', 'https://auction...', false)
+#4 {main}
+  thrown in /home/iwebtech/auction.webtech-evolution.com/wp-content/plugins/Gravity Perks 2.1.9 WordPress Plugin/rms-script-ini.php on line 127
+
